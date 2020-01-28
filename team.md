@@ -1,7 +1,6 @@
-
 Team Members:
 
 * Jeremy
 * Mathilda
-* TODO: Others
+* Zekai gu 
 
