@@ -1,1 +1,7 @@
-hello, I am mathilda.
+
+Team Members:
+
+* Jeremy
+* Mathilda
+* TODO: Others
+
