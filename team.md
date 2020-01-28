@@ -1,1 +1,6 @@
-hi there how are you 
+Team Members:
+
+* Jeremy
+* Mathilda
+* Zekai gu 
+
